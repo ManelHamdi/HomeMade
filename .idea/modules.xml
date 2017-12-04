@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HomeMade.iml" filepath="$PROJECT_DIR$/HomeMade.iml" />
+      <module fileurl="file://C:\Users\Dell\Desktop\M1MPDAM\Android\projet\HomeMadeV1\HomeMade.iml" filepath="C:\Users\Dell\Desktop\M1MPDAM\Android\projet\HomeMadeV1\HomeMade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeMadeV1.iml" filepath="$PROJECT_DIR$/HomeMadeV1.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
